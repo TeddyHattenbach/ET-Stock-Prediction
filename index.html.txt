@@ -1,0 +1,19 @@
+<html>
+<body>
+    <h3>Energy Stocks Predictor</h3>
+<div>
+  <form action="/predict" method="POST">
+    <label for="Monthly_Change_KMI">Monthly Change KMI</label>
+    <input type="number" step="0.001" id="Monthly_Change_KMI" name="Monthly_Change_KMI">
+    <br>
+    <label for="Monthly_Change_MPLX">Monthly Change MPLX</label>
+    <input type="number" step="0.001" id="Monthly_Change_MPLX" name="Monthly_Change_MPLX">
+    <br>
+    <label for="CCI_Values">CCI Values</label>
+    <input type="number" step="0.001" id="CCI_Values" name="CCI_Values">
+    <br>
+    <input type="submit" value="Submit">
+  </form>
+</div>
+</body>
+</html>

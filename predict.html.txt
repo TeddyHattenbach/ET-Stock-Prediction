@@ -1,0 +1,7 @@
+<!doctype html>
+<html>
+   <body>
+       <h3> Predicted Monthly Change</h3>
+       <h1> {{ prediction}} dollars</h1>
+   </body>
+</html>
