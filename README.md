@@ -7,3 +7,5 @@ This project won 3rd place best hack in HackBU (hackathon) 2021.
 
 You can view more about the project here:
 https://devpost.com/software/et-stock-prediction
+
+![ET Stock Prediction](https://github.com/user-attachments/assets/33418215-3e5a-455f-9d4f-fcf5ba4fc443)
